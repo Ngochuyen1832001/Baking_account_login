@@ -1,9 +1,12 @@
 # TPBank_account
-Title 
+Title:
+
   	Login system of the Tien Phong Bank’s Ebank
-Background 
+Background :
+
 (Module extracted from TienPhong Bank, ebank project)
-Program Specifications
+
+Program Specifications:
 Login function of Ebank system includes:
 1. Vietnamese
 2. English
